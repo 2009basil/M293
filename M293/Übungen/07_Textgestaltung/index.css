@@ -1,0 +1,24 @@
+.h1 {
+   font-family: sans-serif;
+}
+
+.h2 {
+   font-family: monospace;
+}
+.h3 {
+   font-family: serif;
+}
+.h4 {
+   font-family: Georgia;
+}
+
+.ul {
+   font-size:larger;
+} 
+
+.li {
+   font-size:xx-small;
+}
+a:hover {
+   font-size:larger;
+}
